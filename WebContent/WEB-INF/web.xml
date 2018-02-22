@@ -5,6 +5,6 @@
 	http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd">
   <display-name></display-name>	
   <welcome-file-list>
-    <welcome-file>setCookie.jsp</welcome-file>
+    <welcome-file>setSession.jsp</welcome-file>
   </welcome-file-list>
 </web-app>
